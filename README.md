@@ -8,7 +8,3 @@ Hello fren, is it me you're looking for?
 Fdkjfjsdkfasd fdsk ff ksdjk sdf.
 FKofdskfofoskfosk sf ksfksdk.
 Ojfdsofjdfkjf jf ksdfj sk.
-
-## Local Development
-
-Test123.
